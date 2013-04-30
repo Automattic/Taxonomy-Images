@@ -2,7 +2,7 @@
 	font-style:italic;
 }
 .taxonomy-images-modal .create-association {
-	display:inline;
+	display:inline-block;
 }
 .taxonomy-images-modal .remove-association {
 	display:none;
