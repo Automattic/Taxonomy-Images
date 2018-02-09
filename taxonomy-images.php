@@ -420,7 +420,7 @@ function taxonomy_image_plugin_control_taxonomies() {
  *
  * @access    private
  */
-function taxonomy_image_plugin_json_response( $args ) {
+function taxonomy_image_plugin_json_response( $args = array() ) {
 	/* translators: An ajax request has failed for an unknown reason. */
 	$response = wp_parse_args( $args, array(
 		'status' => 'bad',
