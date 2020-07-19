@@ -1,0 +1,14 @@
+{
+    "name": "automattic/taxonomy-images",
+    "description": "Associate images from your media library to categories, tags and custom taxonomies.",
+    "type": "wordpress-plugin",
+    "authors": [
+        {
+            "name": "Michael Fields",
+            "homepage": "https://github.com/mfields",
+            "role": "developer"
+        }
+    ],
+    "license": "GPL-3.0-or-later",
+    "require": {}
+}
